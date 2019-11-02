@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555103916 source:c:\users\owner\documents\c++ projects\bst\main.cpp
+	<limits.h>
+	<iostream>
+	<iomanip>
+
